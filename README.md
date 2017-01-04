@@ -1,5 +1,5 @@
 # afrikadial
-A jquery plugin that appends a drop down list with African country codes and sets the value of the input field as per country choice
+A jquery plugin that appends a pseudo-drop-down list (text field with a pop up onClick) that returns African country codes per list item choice
 
 <h3>Using the plugin</h3>
 
